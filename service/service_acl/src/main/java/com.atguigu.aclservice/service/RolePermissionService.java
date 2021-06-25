@@ -2,6 +2,8 @@ package com.atguigu.aclservice.service;
 
 import com.atguigu.aclservice.entity.RolePermission;
 import com.baomidou.mybatisplus.extension.service.IService;
+import org.springframework.stereotype.Repository;
+import org.springframework.stereotype.Service;
 
 /**
  * <p>

@@ -8,6 +8,8 @@ import com.atguigu.aclservice.entity.Permission;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 /**
  * @author zkjy
  * @version 1.0
@@ -18,4 +20,9 @@ import org.springframework.stereotype.Repository;
  **/
 @Repository
 public interface PermissionMapper extends BaseMapper<Permission> {
+    List<String> selectPermissionValueByUserId(String id);
+
+    List<String> selectAllPermissionValue();
+
+    List<Permission> selectPermissionByUserId(String userId);
 }
