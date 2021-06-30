@@ -22,8 +22,8 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+            <state relative-caret-position="252">
+              <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,34 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MybatisPlusConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/config/MybatisPlusConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PermissionServiceImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermissionServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/PermissionServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            <state relative-caret-position="152">
+              <caret line="117" column="12" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,10 +43,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/entity/User.java">
+      <file leaf-file-name="RoleController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/RoleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
+            <state relative-caret-position="284">
+              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPage.class" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/APP/guli_repository/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5.jar!/com/baomidou/mybatisplus/core/metadata/IPage.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/RoleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/RoleServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-599">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRole.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/entity/UserRole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
               <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
@@ -78,7 +97,7 @@
       <file leaf-file-name="UserRoleServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserRoleServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="270">
               <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,7 +109,7 @@
       <file leaf-file-name="UserDetailsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserDetailsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
+            <state relative-caret-position="288">
               <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -104,27 +123,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -148,6 +146,7 @@
       <find>20001</find>
       <find>ResultCode</find>
       <find>ResponseUtil</find>
+      <find>bulidPermission</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -187,6 +186,8 @@
         <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/config/MybatisPlusConfig.java" />
         <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/UserController.java" />
         <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/PermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/RoleController.java" />
       </list>
     </option>
   </component>
@@ -205,8 +206,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="461" />
+    <option name="x" value="123" />
+    <option name="y" value="232" />
     <option name="width" value="1810" />
     <option name="height" value="810" />
   </component>
@@ -226,90 +227,6 @@
               <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serurity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serurity" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serurity" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serurity" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_security" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serurity" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -448,8 +365,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,14 +478,17 @@
       <workItem from="1624516181224" duration="9093000" />
       <workItem from="1624580787023" duration="22849000" />
       <workItem from="1624613618273" duration="762000" />
+      <workItem from="1624839945694" duration="15906000" />
+      <workItem from="1624926487809" duration="1276000" />
+      <workItem from="1625013546145" duration="10828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34537000" />
+    <option name="totallyTimeSpent" value="62547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="369" width="1448" height="648" extended-state="0" />
+    <frame x="6" y="442" width="1448" height="648" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -578,17 +498,17 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.10460251" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31053606" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41404805" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="MyBatis Log" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24965133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965133" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3530499" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3974122" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -603,47 +523,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/ServiceAclApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/mapper/RolePermissionMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/mapper/UserRoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/mapper/RoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/mapper/xml/RoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/RoleService.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/UserRoleService.java">
@@ -708,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-          <folding>
-            <element signature="e#474#490#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/APP/guli_repository/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5.jar!/com/baomidou/mybatisplus/core/metadata/IPage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/APP/guli_repository/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="954">
@@ -912,7 +783,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/config/MybatisPlusConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
+        <state relative-caret-position="468">
           <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -922,26 +793,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
+        <state relative-caret-position="306">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="306">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -949,10 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserRoleServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/ServiceAclApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="342">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -961,11 +822,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserDetailsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
+        <state relative-caret-position="288">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/UserRoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/entity/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -978,8 +856,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/PermissionServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="152">
+          <caret line="117" column="12" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-599">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/APP/guli_repository/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5.jar!/com/baomidou/mybatisplus/core/metadata/IPage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com.atguigu.aclservice/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
