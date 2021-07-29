@@ -9,6 +9,8 @@
         <module name="common_utils" />
         <module name="service_acl" />
         <module name="service_base" />
+        <module name="service_cms" />
+        <module name="service_edu" />
         <module name="spring_security" />
       </profile>
     </annotationProcessing>

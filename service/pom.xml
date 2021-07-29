@@ -13,6 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>service_acl</module>
+        <module>service_cms</module>
+        <module>service_edu</module>
     </modules>
 
 

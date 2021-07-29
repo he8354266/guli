@@ -2,6 +2,7 @@ package com.atguigu.commonutils;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.util.UUID;
 
 
 public final class MD5 {
@@ -30,7 +31,7 @@ public final class MD5 {
     }
 
     public static void main(String[] args) {
-        System.out.println(MD5.encrypt("111111"));
+        System.out.println(MD5.encrypt("111111"+UUID.randomUUID().toString()));
     }
 
 }
