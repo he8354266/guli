@@ -1,4 +1,4 @@
-package com.atguigu.eduservice.config;
+package com.atguigu.msmservice.config;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;

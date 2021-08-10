@@ -11,6 +11,8 @@
         <module name="service_base" />
         <module name="service_cms" />
         <module name="service_edu" />
+        <module name="service_msm" />
+        <module name="service_order" />
         <module name="spring_security" />
       </profile>
     </annotationProcessing>
