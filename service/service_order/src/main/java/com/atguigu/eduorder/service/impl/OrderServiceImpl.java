@@ -14,6 +14,7 @@ import com.atguigu.eduorder.service.OrderService;
 import com.atguigu.eduorder.utils.OrderNoUtil;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 /**
  * @author zkjy
@@ -23,6 +24,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * @createDate 2021/8/10 10:34
  * @updateDate 2021/8/10 10:34
  **/
+@Service
 public class OrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements OrderService {
     @Autowired
     private EduClient eduClient = null;
