@@ -12,5 +12,8 @@
     <file url="file://$PROJECT_DIR$/service/service_edu" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/service_msm" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/service_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_ucenter" charset="UTF-8" />
   </component>
 </project>
