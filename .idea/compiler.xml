@@ -16,6 +16,7 @@
         <module name="service_oss" />
         <module name="service_statistics" />
         <module name="service_ucenter" />
+        <module name="service_vod" />
         <module name="spring_security" />
       </profile>
     </annotationProcessing>

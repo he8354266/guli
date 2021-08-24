@@ -13,6 +13,7 @@ import com.atguigu.commonutils.R;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.apache.commons.lang3.RandomUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -27,6 +28,7 @@ import java.util.Map;
  * @createDate 2021/8/18 10:56
  * @updateDate 2021/8/18 10:56
  **/
+@Service
 public class StatisticsDailyServiceImpl extends ServiceImpl<StatisticsDailyMapper, StatisticsDaily> implements StatisticsDailyService {
     @Autowired
     private UcenterClient ucenterClient = null;
@@ -95,7 +97,7 @@ public class StatisticsDailyServiceImpl extends ServiceImpl<StatisticsDailyMappe
         //把封装之后两个list集合放到map集合，进行返回
         Map<String, Object> map = new HashMap<>();
         map.put("date_calculatedList", date_calculatedList);
-        map.put("numDataList",numDataList);
+        map.put("numDataList", numDataList);
         return map;
     }
 }
